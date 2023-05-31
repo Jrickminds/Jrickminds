@@ -1,5 +1,5 @@
 - 👋 Eu sou José Ricardo
-- 👀 Desenvolvedor fullstack 
+- 👀 Desenvolvedor Front-end
 - 🌱 Estudando Java. HTML5, Css, JavaScript, React e MySQL.
 - 📫 How to reach me ...
 
