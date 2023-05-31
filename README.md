@@ -1,5 +1,5 @@
 - 👋 Eu sou José Ricardo
-- 👀 Desenvolvedor Front-end
+- 👀 Desenvolvedor Front-end e Analista de QA
 - 🌱 Estudando Java. HTML5, Css, JavaScript, React e MySQL.
 - 📫 How to reach me ...
 
