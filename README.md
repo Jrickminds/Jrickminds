@@ -1,6 +1,6 @@
 - 👋 Eu sou José Ricardo
-- 👀 Desenvolvedor Front-end e Analista de QA
-- 🌱 Estudando Java. HTML5, Css, JavaScript, React e MySQL.
+- 💻 Markting tech - Growth Enginner
+- 🚀 Python, MySQL, CRM, HTML, CSS, Claude Code, Canva, Kanban, Customer.io, Netcore, interação RestAPI, etc...
 - 📫 How to reach me ...
 
 <!---
